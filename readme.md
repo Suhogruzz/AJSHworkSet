@@ -1,0 +1,1 @@
+AJSHworkSet [![Build status](https://ci.appveyor.com/api/projects/status/luo196kh7gh4iep2?svg=true)](https://ci.appveyor.com/project/Suhogruzz/ajshworkset)
